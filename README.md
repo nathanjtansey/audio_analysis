@@ -1,5 +1,5 @@
 # audio_analysis
-## Nathan Tansey
+### Nathan Tansey
 
 This project analyzed and utilized spectrograms as representations of sound. These were created using parts of Tim Sainburg's code so as to manually create spectrograms using STFT (short-time fourier transform) rather than use prebuilt packages and functions.
 
